@@ -56,13 +56,6 @@ Tarif paylaşma, keşfetme, puanlama, yorumlama ve favorilere ekleme özellikler
 
 `React` `Vite` `Node.js` `Express` `MongoDB` `Docker`
 
-## GitHub İstatistikleri
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edaerguven1&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Eda Nur'un GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaerguven1&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En çok kullanılan diller" />
-</div>
-
 <div align="center">
 
 ### Birlikte güzel bir şey geliştirelim ✨
