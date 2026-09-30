@@ -4,11 +4,12 @@
 
 ### Bilgisayar Mühendisliği · Web & Mobil Uygulama Geliştirme
 
-Kullanıcı odaklı web ve mobil uygulamalar geliştiriyor; fikirleri işlevsel, erişilebilir ve modern ürünlere dönüştürüyorum.
+Kullanıcı odaklı web ve mobil uygulamalar geliştiriyor; fikirleri işlevsel, erişilebilir ve modern ürünlere dönüştürüyorum. Detaylı projelerim ve deneyimlerim için **[portfolyo sitemi](https://edanurerguven.vercel.app)** inceleyebilirsiniz.
 
 [![GitHub](https://img.shields.io/badge/GitHub-edaerguven1-181717?style=for-the-badge&logo=github)](https://github.com/edaerguven1)
 [![E-posta](https://img.shields.io/badge/E--posta-İletişime_Geç-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edanurerguven682@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eda_Nur_Ergüven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eda-nur-erg%C3%BCven-ba850232b)
+[![Portfolyo](https://img.shields.io/badge/Portfolyo-edanurerguven.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://edanurerguven.vercel.app)
 
 </div>
 
